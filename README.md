@@ -12,6 +12,8 @@ Downloads](https://cranlogs.r-pkg.org/badges/webtrackR)](https://CRAN.R-project.
 [![R-CMD-check](https://github.com/gesistsa/webtrackR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/gesistsa/webtrackR/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/gesistsa/webtrackR/branch/main/graph/badge.svg)](https://app.codecov.io/gh/gesistsa/webtrackR?branch=main)
+
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/webtrackR/actions/workflows/jupyter4nfdi_ready_check.yml/badge.svg)](https://github.com/apawlik/webtrackR/actions/workflows/jupyter4nfdi_ready_check.yml)
 <!-- badges: end -->
 
 webtrackR is an R package to preprocess and analyze web tracking data,
